@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .a {
+        fill: #00c605;
+      }
+
+      .b {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle class="a" cx="50" cy="50" r="50"/>
+    <rect class="b" x="42.09" y="21.54" width="15.82" height="56.92" rx="2.16"/>
+    <rect class="b" x="21.61" y="28.91" width="15.82" height="49.55" rx="2.16"/>
+    <rect class="b" x="61.96" y="44.81" width="15.82" height="33.65" rx="2.16"/>
+  </g>
+</svg>
